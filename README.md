@@ -7,7 +7,7 @@
 ### Install docker-compose as a container
 
 ```
-$ sudo curl -L --fail https://github.com/cyberoslab/docker-compose/releases/download/latest/run.sh -o /usr/local/bin/docker-compose
+$ sudo curl -L --fail https://github.com/cyberoslab/docker-compose/releases/download/publish/run.sh -o /usr/local/bin/docker-compose
 $ sudo chmod +x /usr/local/bin/docker-compose
 ```
 or
